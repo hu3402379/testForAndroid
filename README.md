@@ -1,6 +1,10 @@
 Dicom file in the 'static/dcm' directory
-jpeg-ls.dcm //jpeg Lossless file
-source.dcm // source file
+
+
+jpeg-ls.dcm   (jpeg Lossless file)
+
+
+source.dcm   (source file)
 ## dev ##
 	npm install 
 
